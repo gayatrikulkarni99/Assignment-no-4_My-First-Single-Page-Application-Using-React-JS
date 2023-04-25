@@ -1,0 +1,32 @@
+<blog>
+	<post>
+		<date>January-Febuary 2021</date>
+		<author>Boris Babic, I.Glenn Cohen, Theodoros Evgeniou,Sara Gerke</author>
+		<title>When Machine Learning goes off the rails</title>
+		<summary>
+			<image_path>https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails</image_path>
+			<text>A guide to managing the risks.</text>
+		</summary>
+		<body> Products and services that rely on machine learning—computer programs that constantly absorb new data and adapt their decisions in response—don’t always make ethical or accurate choices. Sometimes they cause investment losses, for instance, or biased hiring or car accidents. And as such offerings proliferate across markets, the companies creating them face major new risks. Executives need to understand and mitigate the technology’s potential downside.</body>
+	</post>
+	<post>
+		<date>December 15,2022</date>
+		<author>Indika Wickramasinghe</author>
+		<title>Applications of Machine Learning in cricket : A systematic review</title>
+		<summary>
+			<image_path>https://www.sciencedirect.com/science/article/pii/S2666827022001104</image_path>
+			<text>Cricket has become a famous team game around the globe, and it is considered the world’s second most popular sport (Pathak and Wadhwa, 2016). The plethora of available cricket data and the development of Machine Learning (ML) technology have created a massive demand for cricket data analytics.</text>
+		</summary>
+		<body>This manuscript systematically studied how machine learning techniques have been applied in cricket in contemporary literature. As a reference, standardized guidelines proposed by Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA; Moher, Liberati, Tetzlaff, Altman, & Prisma Group*, 2009) for systematic reviews were followed. The entire review protocol comprises three phases: identification, screening, and final selection</body>
+	</post>
+    <post>
+    <date>April 24,2023</date>
+    <author>Bernard Marr</author>
+    <title>Artifical Intelligence in Space: The Amazing Ways Machine Learning is helping to unravel the mysteries of the universe</title>
+    <summary>
+    <image_path>https://bernardmarr.com/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe</image_path>
+    <text>Space travel, exploration, and observation involve some of the most complex and dangerous scientific and technical operations ever carried out.</text>
+    </summary>
+    <body>Because of this, astronauts, scientists, and others whose job it is to chart and explore the final frontier are increasingly turning to machine learning (ML) to tackle the everyday and extraordinary challenges they face.So, from steering rockets through space to studying the surface of distant planets, measuring the size of the universe, and calculating the trajectories of celestial bodies, here are some of the most interesting and exciting use cases for AI in space.</body>
+    </post>
+</blog>
